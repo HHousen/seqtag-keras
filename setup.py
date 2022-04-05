@@ -22,9 +22,8 @@ VERSION = '1.0.6'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'Keras<=2.3.1',
+    'tensorflow>=2.8.0',
     'scikit-learn',
-    'seqeval==0.0.3'
 ]
 
 # What packages are optional?
